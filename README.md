@@ -103,6 +103,7 @@ Plugin Minecraft pour serveurs <b>Paper 1.21.9 à 26.3</b>, par <b>SnkAlex</b>.<
 | **Facultatif** | Vault, PlaceholderAPI, LuckPerms (conditions par grade) |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkQuetes](https://github.com/SnkStudio/SnkQuetes)** : des quêtes données par les personnages, avec « ! » et « ? » au-dessus des têtes
 - **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : plaques de grade et icônes dans les noms, menus ouverts par un personnage
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : chapeaux et masques sur les personnages
 - **[SnkMarche](https://github.com/SnkStudio/SnkMarche)** : un marchand qui ouvre la boutique
